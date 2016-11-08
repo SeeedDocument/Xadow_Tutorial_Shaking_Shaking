@@ -1,8 +1,7 @@
 ---
-title: Xadow Wearable Kit For Edison
+title: XadowTtutorial-Shaking Shaking
 category: RePhone
 oldwikiname: Xadow tutorial-shaking shaking
-prodimagename: Xadow_Wearable_Kit_For_Edison02.png
 surveyurl: https://www.research.net/r/Xadow_Tutorial_Shaking_Shaking
 ---
 
